@@ -6,10 +6,9 @@
 Welcome to my GitHub profile! I'm a passionate computer science student with a keen interest in technology and problem-solving. I love exploring the intersection of theory and practical application, and I'm constantly seeking opportunities to put my theorical knowledge into partice to expand my soft and technical skills.
 
 ## 🌱 Currently Learning
-In my fourth year in this field, I'm currently focusing on the following areas :
+In my fifth year in this field, I'm currently focusing on the following areas :
 - Natural Language processing.
-- Solving real world problems using different ML techniques.
-- Combinatorial optimization problems resolution.
+- Using Large Language Models for problem solving.
 
 ## 🚀 Projects
 Here are a few notable projects I've worked on:
@@ -28,6 +27,7 @@ An educational app for kids to help them learn the basic knowledge in different 
 - **HTML/CSS**.
 - **JavaScript**.
 - **C/C++**.
+
 
 
 
